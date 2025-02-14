@@ -1,8 +1,9 @@
-#install package with
+# Install package with  
 npm install
-#run source with
+
+# Run source with  
 npm start
 
-#potential error start source fix
-npm update
+# Potential error start source fix  
+npm update  
 npm audit fix --force
